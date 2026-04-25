@@ -7,6 +7,8 @@ Github link:
 
 Docker link:
 
+Apologies in advance for the duplicate files in src - I ran into many, many bugs while programming this assignment, some of which may still exist. This is an attempt at the project - not a perfect solution. Use anything from these files at your own risk!
+
 Optional Step 0: Early setup
 
 While you don’t need to do these steps necessarily at the beginning, they will save some time and hassle when it comes to working with the rest of the lab.
