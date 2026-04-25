@@ -3,9 +3,9 @@ My attempt at the Wine Quality Prediction Lab for Cloud Computing
 
 ReadMe: Assignment #2 Steps
 
-Github link:
-
-Docker link:
+Github link: https://github.com/chs33-cloud/WineQualityPrediction/tree/main
+ 
+Docker link: https://hub.docker.com/r/colinsherman/wine-spark
 
 Apologies in advance for the duplicate files in src - I ran into many, many bugs while programming this assignment, some of which may still exist. This is an attempt at the project - not a perfect solution. Use anything from these files at your own risk!
 
